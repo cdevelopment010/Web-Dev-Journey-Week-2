@@ -20,7 +20,7 @@
 }
 
 .grid-img {
-    background-image: url("/images/City-night.jpg");
+    background-image: url("./images/City-night.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed; 
